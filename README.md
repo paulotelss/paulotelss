@@ -14,9 +14,13 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-
-<div> 
-  <a href="https://instagram.com/paulogiovani.t.d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<br><br>
+<div>  
   <a href="https://https://www.linkedin.com/in/paulogiovanitelesdias6372a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<a href="https://twitter.com/seu-usuario" target="_blank">
+  <img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+<a href="https://instagram.com/paulogiovani.t.d" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23BC2A8D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 </div>
