@@ -21,7 +21,7 @@
 
 <div>  
   <a href="https://https://www.linkedin.com/in/paulogiovanitelesdias6372a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/seu-usuario" target="_blank">
+<a href="https://twitter.com/https://x.com/paulogiovani77" target="_blank">
   <img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 <a href="https://instagram.com/paulogiovani.t.d" target="_blank">
