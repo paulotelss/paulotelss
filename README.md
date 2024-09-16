@@ -50,10 +50,10 @@
   <a href="https://x.com/paulogiovani77" target="_blank">
     <img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  <a href="https://www.instagram.com/seuusuario" target="_blank">
+  <a href="https://www.instagram.com/paulogiovani.t.d/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.youtube.com/c/seucanal" target="_blank">
+  <a href="https://www.youtube.com/@syntaxsavvy-d9t" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
 
