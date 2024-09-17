@@ -1,7 +1,8 @@
 ## HEY✌️ Paulo here.
+![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/1111c2c5-4852-49e6-94b7-3871b0610103)
 
 - 🖥️ I am currently working as a freelance programmer
-- 🧠 I’m currently learning C++
+- 🧠 I’m currently learning C++                                         
 - 💬 Contact me by email contactpaulog01@gmail.com
 
 ## I work with
