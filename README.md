@@ -1,8 +1,10 @@
 ## HEY✌️ Paulo here.
-![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/1111c2c5-4852-49e6-94b7-3871b0610103)
+![banner](https://github.com/user-attachments/assets/9be138d9-486e-4e83-bf2f-cb01e681a852)
 
-- 🖥️ I am currently working as a freelance programmer
-- 🧠 I’m currently learning C++                                         
+
+- 🖥️ Freelance Full Stack Programmer
+- 💪 A solid foundation in Js
+- 🧠 A growing interest in other languages ​​such as C++ and Java.                                      
 - 💬 Contact me by email contactpaulog01@gmail.com
 
 ## I work with
