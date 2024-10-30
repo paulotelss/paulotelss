@@ -5,7 +5,6 @@
 - 🖥️ Freelance Full Stack Programmer
 - 💪 A solid foundation in Js
 - 🧠 A growing interest in other languages ​​such as C++ and Java.                                      
-- 💬 Contact me by email contactpaulog01@gmail.com
 
 ## I work with
 
