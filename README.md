@@ -1,6 +1,4 @@
 ## HEY✌️ Paulo here.
-![banner](https://github.com/user-attachments/assets/9be138d9-486e-4e83-bf2f-cb01e681a852)
-
 
 - 🖥️ Freelance Full Stack Programmer
 - 💪 A solid foundation in Js
