@@ -29,9 +29,10 @@
 
 ### 📊 GitHub Stats & Technologies
 
-<div align="left">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulotelss&layout=compact&theme=vision-friendly-dark&hide_progress=true" alt="Top Langs" />
-</div>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulotelss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulotelss&layout=compact&theme=vision-friendly-dark&hide_progress=true" />
+</p>
 
 ## I work with
 
