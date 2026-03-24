@@ -1,8 +1,10 @@
 ## HEY✌️ Paulo here.
 
-- 🖥️ Freelance Full Stack Programmer
-- 💪 A solid foundation in Js
-- 🧠 A growing interest in other languages ​​such as C++ and Java.                                      
+- 🎓 Postgrad Student in Cloud Computing Systems and Services
+
+- 💻 System Analysis and Development Graduate
+
+- ☁️ Currently diving deep into Cloud Infrastructure and Backend Development (C++, Java)                                      
 
 ## I work with
 
